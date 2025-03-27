@@ -21,7 +21,7 @@ export default function DoctorSlider() {
             name: "Caleb Dowglas",
             designation: "CEO & Manager at Medix Clinic",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua sediacum sued do.",
+                "Lorem ipsum dolor sit amet, therefore it is the best consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua sediacum sued do.",
         },
     ];
 
