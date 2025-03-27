@@ -23,6 +23,8 @@ export default function Carousel() {
         { name: "Pathology" },
         { name: "Anesthesiology" },
         { name: "Family Medicine" },
+        { name: "Anesthesiology" },
+        { name: "Family Medicine" },
     ];
 
     useGSAP(() => {
